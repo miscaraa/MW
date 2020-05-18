@@ -1,0 +1,178 @@
+@media (max-width: 1025px) {
+    .logo-box img{
+        left: 23px;
+    }
+    .header-descr {
+        right: 140px;
+    }
+
+}
+
+@media (max-width: 940px) {
+    .logo-box img{
+        left: 23px;
+        width: 90px;
+    }
+    /* .top-info__title {
+        font-size: 24px;
+        margin-bottom: 16px;
+    } */
+
+}
+@media (max-width: 820px) {
+    .logo-box img{
+        left: 0;
+        top: 3px;
+        width: 101px;
+    }
+    .boxes-list__item{
+        padding: 35px 37px 27px 37px;
+        margin-bottom: 25px;
+    }
+    .musblog__inner{
+        padding: 140px 0;
+    }
+    .musblog-title{
+        font-size: 38px;
+    }
+    .musblog-btn{
+        font-size: 22px;
+    }
+}
+
+@media (max-width: 769px) {
+    .logo-box img{
+        left: 0;
+        top: 3px;
+        width: 88px;
+    }
+    .header-descr {
+        right: 80px;
+    }
+    .header-menu{
+        margin-top: 20px;
+    }
+    .top-info{
+        padding: 80px 50px 75px 50px;
+    }
+    .top-info__title{
+        margin-bottom: 24px;
+        font-size: 26px;
+    }
+    .top-info__descr{
+        line-height: 20px;
+        margin-bottom: 45px;
+    }
+    .boxes-list__item-descr{
+        line-height: 20px;
+    }
+    .boxes-list__item-title{
+        font-size: 18px;
+    }
+}
+@media (max-width: 651px) {
+    .logo-box img{
+        left: 0;
+        top: 3px;
+        /* width: 67px; */
+    }
+    .header-descr {
+        right: 70px;
+    }
+    .musblog-title{
+        font-size: 35px;
+        margin-bottom: 40px;
+    }
+    .musblog__inner {
+        padding: 120px 0;
+    }
+}
+
+@media (max-width: 590px) {
+    .logo-box img{
+        left: 0;
+        top: 3px;
+        width: 67px;
+    }
+    .header-menu__list{
+        font-size: 15px;
+        margin-right: 0;
+    }
+    .header-descr__title {
+        font-size: 30px;
+    }
+    .header-descr__subtitle {
+        font-size: 13px;
+    }
+    .top-info{
+        padding: 75px 30px;
+    }
+    .musblog-title{
+        font-size: 30px;
+    }
+}
+
+@media (max-width: 480px) {
+    .logo-box img{
+        left: 0;
+        top: 3px;
+        width: 56px;
+    }
+    .header-menu{
+        margin-top: 16px;
+    }
+    .header-menu__list {
+        display: flex;
+        font-size: 11px;
+        margin: 0;
+    }
+    .header-descr__title{
+        font-size: 26px;
+    }
+    .header-descr__subtitle{
+        font-size: 11px;
+    }
+    .musblog-title{
+        font-size: 26px;
+    }
+    .copyright{
+        font-size: 13px;
+    }
+}
+
+@media (max-width: 399px) {
+    .logo-box img{
+        left: 0;
+        top: 3px;
+        width: 47px;
+    }
+    .header-descr{
+        right: 40px;
+    }
+    .header-descr__title{
+        font-size: 24px;
+    }
+    .header-descr__subtitle{
+        font-size: 10px;
+    }
+    .header-menu{
+        margin-top: 10px;
+    }
+    .header-menu__list {
+        font-size: 10px;
+        margin: 0;
+    }
+    .top-info__descr {
+        line-height: 18px;
+        margin-bottom: 25px;
+    }
+    .top-info__title{
+        font-size: 22px;
+    }
+    .musblog-title{
+        font-size: 20px;
+    }
+    .musblog-btn{
+        font-size: 15px;
+    }
+}
